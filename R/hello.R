@@ -1,5 +1,5 @@
 #' Hello Workshop Attendees
-#'
+#'@concept testing
 #' Welcomes the CI/CD workshop attendees
 #' @author Yourself
 #' @details Greet workshop attendees
